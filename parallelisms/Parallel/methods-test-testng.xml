@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="Test-method Suit" parallel="methods" thread-count="2">
-	<test name="Test-method test" group-by-instances="true">
-		<classes>
-			<class name="Parallel.ParallelMethodTest" />
-		</classes>
-	</test>
-</suite>
